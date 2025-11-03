@@ -8,14 +8,14 @@ O app apenas exibe **anúncios** fornecidos por terceiros (como o Google AdMob).
 
 ---
 
-## 🔗 Acesse a política
+## Acesse a política
 
 Página publicada via **GitHub Pages**:
-👉 [https://albertoyan.github.io/untildate-privacy_policy/](https://albertoyan.github.io/untildate-privacy_policy/)
+[https://albertoyan.github.io/untildate-privacy_policy/](https://albertoyan.github.io/untildate-privacy_policy/)
 
 ---
 
-## 🧾 Informações do desenvolvedor
+## Informações do desenvolvedor
 
 * **Desenvolvedor:** AS3
 * **E-mail de contato:** [aygleyser@gmail.com](mailto:aygleyser@gmail.com)
@@ -23,7 +23,7 @@ Página publicada via **GitHub Pages**:
 
 ---
 
-## ⚙️ Licença
+## Licença
 
 O conteúdo desta página é fornecido apenas para fins informativos e pode ser atualizado a qualquer momento sem aviso prévio.
 © AS3 — Todos os direitos reservados.
