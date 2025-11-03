@@ -1,8 +1,8 @@
-# Política de Privacidade — Contador de Eventos
+# Política de Privacidade — UntilDate
 
-Este repositório contém a página de **Política de Privacidade** do aplicativo **Contador de Eventos**, desenvolvido por **AS3**.
+Este repositório contém a página de **Política de Privacidade** do aplicativo **UntilDate**, desenvolvido por **AS3**.
 
-O aplicativo **Contador de Eventos** permite que os usuários criem e acompanhem contagens regressivas para eventos pessoais.
+O aplicativo **UntilDate** permite que os usuários criem e acompanhem contagens regressivas para eventos pessoais.
 Ele **não coleta nem compartilha dados pessoais**, armazenando todas as informações localmente no dispositivo.
 O app apenas exibe **anúncios** fornecidos por terceiros (como o Google AdMob).
 
